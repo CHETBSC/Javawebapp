@@ -81,7 +81,7 @@ pipeline {
              }
           }
         }
-        
+       # Quality gate for SonarQube 
        stage('Quality gate') {
 
             steps {
