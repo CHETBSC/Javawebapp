@@ -1,7 +1,7 @@
 pipeline {
 
     // run on jenkins nodes tha has slave label .....
-
+	// This is git merge and rebase
     agent any
 
     // global env variables
